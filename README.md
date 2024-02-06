@@ -38,7 +38,9 @@ Jan 2017 - August 2022
 
 ### Technical Skills
 
-- Programming Languages: Python, SQL
+- Programming Languages: Python, SQL![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/b7fa40c2-cbb4-4443-9943-ac85f67718f4)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/011c72f2-afde-4bef-90f2-599c84c0304e)
+
+
 - Tools & Technologies: Microsoft Azure, Databricks, Power BI, Tableau, Excel, Alteryx
 
 ### Big Data & Machine Learning
