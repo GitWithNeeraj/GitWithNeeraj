@@ -12,8 +12,7 @@ I am a Data Analyst with experience in healthcare, finance, and energy sectors. 
 
 ### Technical Skills
 
-- ![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/a616b284-e401-40b3-9b6d-dbcaec633ed1)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/0c6e39af-65d9-4fa4-a961-50e0208a2dac)
-![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/cf048b25-e571-46c0-bcf8-728aa4d6bca6)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/fe3ad635-8dc1-4093-9a87-c525aafd4736)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/884cb00f-e15a-4bb8-9d89-cda7ba0b4555)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/ea4924f6-263d-44a3-bac0-cd97d0ec9f50)
+- ![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/a616b284-e401-40b3-9b6d-dbcaec633ed1)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/0c6e39af-65d9-4fa4-a961-50e0208a2dac)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/884cb00f-e15a-4bb8-9d89-cda7ba0b4555)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/ea4924f6-263d-44a3-bac0-cd97d0ec9f50)
 
 
 
