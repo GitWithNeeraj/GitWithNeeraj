@@ -13,6 +13,7 @@ I am a Data Analyst with experience in healthcare, finance, and energy sectors. 
 ### Technical Skills
 
 - ![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/a616b284-e401-40b3-9b6d-dbcaec633ed1)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/0c6e39af-65d9-4fa4-a961-50e0208a2dac)
+![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/cf048b25-e571-46c0-bcf8-728aa4d6bca6)
 
 
 - Tools & Technologies: Microsoft Azure, Databricks, Power BI, Tableau, Excel, Alteryx
