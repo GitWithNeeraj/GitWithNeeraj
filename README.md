@@ -1,39 +1,14 @@
 ### Hi there 👋 I am Neeraj
 I am a Data Analyst with experience in healthcare, finance, and energy sectors. I am passionate about leveraging data to drive insights and make informed decisions. Currently based in London, I hold an MSc in Big Data Science from Queen Mary University of London.
-## Work Experience
-
-### Data Analyst, AI MULTIPLY, UK
-March 2023 – Present
-
-- Collaborated with researchers using Python, R, and SQL for data analysis and database management.
-- Led a project on diabetic retinopathy prediction using Neural Temporal Point process models.
-- Conducted data manipulation and analysis using Spark and Power BI for healthcare data trends visualization.
-- Implemented machine learning algorithms for predictive analytics, enhancing project accuracy.
-
-### Data Science Intern, EY
-Jan 2022 - March 2022
-
-- Developed forensic data analytics strategies using SQL, Alteryx, and Excel for complex data queries and manipulation.
-- Utilized Google Analytics for ecommerce analytics to extract key insights and trends.
-- Enhanced decision-making processes by implementing ETL processes and data pipelines using Alteryx and Azure services.
-
-### Energy Data Analyst, Projects and Development India Limited
-Jan 2017 - August 2022
-
-- Integrated, maintained, and analyzed large datasets using Python, SQL, and Spark for cross-departmental reporting.
-- Assisted in securing major contracts by providing budget preparation and financial management support.
-- Managed planning, monitoring, procurement, and contracting processes, providing key recommendations.
-- Monitored industry trends using Power BI and Tableau for alignment with organizational goals.
-
-## Certifications
-
-- Microsoft Certified: Azure Data Scientist Associate
-<img width="685" alt="image" src="https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/5de1a5c9-6e84-4784-b132-eb2a402778e8">
 
 ## Education
 
 - MSc Big Data Science, Queen Mary University of London (Distinction), Sept 2022 – Sept 2023
 
+## Certifications
+
+- Microsoft Certified: Azure Data Scientist Associate
+<img width="685" alt="image" src="https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/5de1a5c9-6e84-4784-b132-eb2a402778e8">
 
 ### Technical Skills
 
