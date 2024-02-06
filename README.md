@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Data Analyst with experience in healthcare, finance, and energy sectors. I am passionate about leveraging data to drive insights and make informed decisions. Currently based in London, I hold an MSc in Big Data Science from Queen Mary University of London.
 <!--
 **GitWithNeeraj/GitWithNeeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
