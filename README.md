@@ -28,6 +28,7 @@ Jan 2017 - August 2022
 ## Certifications
 
 - Microsoft Certified: Azure Data Scientist Associate
+<img width="685" alt="image" src="https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/5de1a5c9-6e84-4784-b132-eb2a402778e8">
 
 ## Education
 
