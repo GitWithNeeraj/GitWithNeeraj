@@ -34,11 +34,11 @@ Jan 2017 - August 2022
 
 - MSc Big Data Science, Queen Mary University of London (Distinction), Sept 2022 – Sept 2023
 
-## Skills
 
 ### Technical Skills
 
-- Programming Languages: Python, SQL![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/a616b284-e401-40b3-9b6d-dbcaec633ed1)
+- ![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/a616b284-e401-40b3-9b6d-dbcaec633ed1)![image](https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/0c6e39af-65d9-4fa4-a961-50e0208a2dac)
+
 
 - Tools & Technologies: Microsoft Azure, Databricks, Power BI, Tableau, Excel, Alteryx
 
