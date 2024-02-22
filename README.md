@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Neeraj
-I am a Data Analyst with experience in healthcare, finance, and energy sectors. I am passionate about leveraging data to drive insights and make informed decisions. Currently based in London, I hold an MSc in Big Data Science from Queen Mary University of London.
+I am a Data Scientist with experience in healthcare, finance, and energy sectors. I am passionate about leveraging data to drive insights and make informed decisions. Currently based in London, I hold an MSc in Big Data Science from Queen Mary University of London.
 
 ## Education
 
