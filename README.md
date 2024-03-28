@@ -9,6 +9,8 @@ I am a Data Scientist with experience in healthcare, finance, and energy sectors
 
 - Microsoft Certified: Azure Data Scientist Associate
 <img width="685" alt="image" src="https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/5de1a5c9-6e84-4784-b132-eb2a402778e8">
+- Microsoft Certified: Power BI Data Analyst Associate
+<img width="903" alt="image" src="https://github.com/GitWithNeeraj/GitWithNeeraj/assets/84373485/32968e39-cd41-47a5-8895-16021d3bca96">
 
 ### Technical Skills
 
